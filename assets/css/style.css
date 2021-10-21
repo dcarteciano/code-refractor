@@ -75,7 +75,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* adds styles to the benefits section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -100,6 +100,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* end of benefits styling */
 /* styles the services */
 .services {
     margin-bottom: 20px;
