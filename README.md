@@ -1,10 +1,10 @@
 # code-refractor
 challenge 1
 
-##Purpose
+## Purpose
 Code that has been refractored to meet accessability standards
 
-##Built with
+## Built with
 * HTML
 * CSS
 
